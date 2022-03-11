@@ -2,7 +2,8 @@
 A simple student management system that supports basic operations including store, add, update, and delete student information.
 
 Demo of the application:
-Add a studnet:
+
+
 <img width="637" alt="image" src="https://user-images.githubusercontent.com/66391583/157794699-e0007c7a-6fb9-4a93-b39e-99b0d2813b39.png">
 <img width="639" alt="image" src="https://user-images.githubusercontent.com/66391583/157794774-b8b258f6-e29f-4dfa-91fc-02d006eb64ff.png">
 <img width="635" alt="image" src="https://user-images.githubusercontent.com/66391583/157794890-d2967502-39e9-4602-89db-061ead72f8d3.png">
