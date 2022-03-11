@@ -2,6 +2,7 @@
 A simple student management system that supports basic operations including store, add, update, and delete student information.
 
 Demo of the application:
+
 Add a new student name Tom:
 
 <img width="637" alt="image" src="https://user-images.githubusercontent.com/66391583/157794699-e0007c7a-6fb9-4a93-b39e-99b0d2813b39.png">
